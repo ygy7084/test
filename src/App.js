@@ -125,7 +125,7 @@ class App extends Component {
             stage.addChild(new createjs.Shape()).set({graphics:g, x:0, y:0, name:graphic.name});
         });
         createjs.Ticker.on('tick', (e) => {
-            background.alpha = 1;
+            background.alpha = 2;
             if(stage.mouseInBounds) {
                 background.alpha = 1;
                 const g = new createjs.Graphics();
