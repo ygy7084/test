@@ -165,9 +165,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="95" />
-    <option name="y" value="432" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="221" />
+    <option name="y" value="267" />
     <option name="width" value="1578" />
     <option name="height" value="654" />
   </component>
@@ -346,12 +346,12 @@
       <workItem from="1500964861186" duration="4711000" />
       <workItem from="1501076541745" duration="7034000" />
       <workItem from="1501083848028" duration="6052000" />
-      <workItem from="1501136630376" duration="2546000" />
+      <workItem from="1501136630376" duration="2905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20760000" />
+    <option name="totallyTimeSpent" value="21119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -363,7 +363,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="432" width="1578" height="654" extended-state="0" />
+    <frame x="221" y="267" width="1578" height="654" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
